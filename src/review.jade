@@ -1,0 +1,10 @@
+//- extends ./layout.jade
+
+block body
+  h1= test
+  -
+    list = ["Uno", "Dos", "Tres",
+          "Cuatro", "Cinco", "Seis"]
+  ul
+    each item in list
+      li= item
