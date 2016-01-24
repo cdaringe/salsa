@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "jade src --out build --pretty"
+    "build": "node build.js"
   },
   "author": "",
   "license": "ISC",
