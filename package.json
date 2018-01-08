@@ -13,8 +13,8 @@
     "jade": "^1.11.0"
   },
   "devDependencies": {
-    "async": "^1.5.2",
-    "fs-extra": "^0.26.4",
+    "async": "^2.6.0",
+    "fs-extra": "^5.0.0",
     "lodash": "^4.0.0"
   }
 }
